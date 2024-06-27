@@ -14,10 +14,10 @@
     ├── doc.pdf						# 本文的 PDF 版本
     ├── enums.py					# 常量
     ├── main.py						# 随机生成，并测试
-    ├── solution.py				# 本文的求解方法
+    ├── solution.py				    # 本文的求解方法
     ├── test.py						# 某一个情况的求解，并输出求解过程
     ├── scene.py					# 某个情况下的包装类
-    └── validation.py			# 校验函数
+    └── validation.py			    # 校验函数
 
 ```
 
